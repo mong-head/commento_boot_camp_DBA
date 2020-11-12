@@ -6,6 +6,7 @@ desc : DBA에 대한 직무 체험 부트 캠프 (2020.10.17 ~ 2020.11.14)
   2. MySQL(8.0)
   3. SQLyog
   4. DA#5
+  5. trigger, procedure
 
 ## 1. AWS 서버 이용
 ![K-007](https://user-images.githubusercontent.com/52481037/98964044-aff86a80-254b-11eb-95c0-41b73068e981.jpg)
@@ -29,4 +30,14 @@ detail : [과제 2](https://github.com/mong-head/commento_boot_camp_DBA/blob/mas
 * tables : 
 <p align="center"><img src = "https://user-images.githubusercontent.com/52481037/98969712-7a0ab480-2552-11eb-928c-1d2b6bbc039c.jpg" align="center" width="700px" ></p>
 
-## 3. 
+## 3. 이상데이터 검출 및 품질검증 시스템 생성
+
+detail : [과제 3](https://github.com/mong-head/commento_boot_camp_DBA/blob/master/%EA%B3%BC%EC%A0%9C3/%EA%B3%BC%EC%A0%9C3_%EB%B0%B0%EC%9C%A0%EC%A7%84.pdf)
+  * 해당 pdf에 어떤 것을 이상 데이터로 정하였는지 있음
+
+품질검증을 위하여...
+  1. log DB를 만들고, log table을 만듦 - 정의한 이상데이터의 로그를 남기기 위함
+  2. Trigger을 이용하여, 데이터를 insert할 때마다 이상데이터인지 확인하여 로그 남김
+  3. procedure을 이용하여, 품질검증 프로세스를 하나로 담아서 점검시 편함을 추구함.
+  * log DB, Trigger, Procedure등을 담은 DB이미지 : 
+<p align="center"><img src = "https://user-images.githubusercontent.com/52481037/98972229-82182380-2555-11eb-9af8-9b7ce43447f9.png" align="center" width="150px" ></p>

@@ -30,6 +30,18 @@ detail : [과제 2](https://github.com/mong-head/commento_boot_camp_DBA/blob/mas
 * tables : 
 <p align="center"><img src = "https://user-images.githubusercontent.com/52481037/98969712-7a0ab480-2552-11eb-928c-1d2b6bbc039c.jpg" align="center" width="700px" ></p>
 
+* 추가 과제 : DB설계 해보기 - 사내도서관 시스템 DB설계(논리,물리)
+  * detail : [추가 과제](https://github.com/mong-head/commento_boot_camp_DBA/blob/master/%EA%B3%BC%EC%A0%9C3-4%EC%82%AC%EC%9D%B4%20%EC%B6%94%EA%B0%80%EA%B3%BC%EC%A0%9C/%EC%B6%94%EA%B0%80%20%EA%B3%BC%EC%A0%9C.pdf)
+  * 프로그램 : DA#5이용
+  * 결과 : 
+  
+    |논리 설계|물리 설계|
+    |:------:|:------:|
+    |<p align="center"><img src = "https://user-images.githubusercontent.com/52481037/98973525-34041f80-2557-11eb-9e65-1b69281b9099.png" align="center" width="400px" ></p>|<p align="center"><img src = "https://user-images.githubusercontent.com/52481037/98974284-15eaef00-2558-11eb-9440-f19cbe3ed129.png" align="center" width="400px" ></p>|
+
+
+
+
 ## 3. 이상데이터 검출 및 품질검증 시스템 생성
 
 detail : [과제 3](https://github.com/mong-head/commento_boot_camp_DBA/blob/master/%EA%B3%BC%EC%A0%9C3/%EA%B3%BC%EC%A0%9C3_%EB%B0%B0%EC%9C%A0%EC%A7%84.pdf)

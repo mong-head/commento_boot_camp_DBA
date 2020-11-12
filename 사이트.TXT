@@ -1,0 +1,5 @@
+전반적인 dbms설명
+https://www.slideshare.net/awskorea/choosing-the-right-aws-database-seungdo-yang
+
+로그 자동으로 업데이트
+https://tost.tistory.com/38

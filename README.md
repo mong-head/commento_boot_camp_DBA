@@ -13,6 +13,9 @@ desc : DBA에 대한 직무 체험 부트 캠프 (2020.10.17 ~ 2020.11.14)
 * AWS RDS MySQL이용
 * MySQL(8.0)설치 후 SQLyog사용 
   * MySQL Workbench는 치명적인 문제가 있어서 SQLyog사용
+* DB instance parameters
+  * log_bin_trust_function_creators : 1 //trigger사용 위함
+  * general_log : 1 //query log보기 위함
 
 ### 1-1. DBMS 선택한 과정 : [과제 1](https://github.com/mong-head/commento_boot_camp_DBA/blob/master/%EA%B3%BC%EC%A0%9C1/%EB%B0%B0%EC%9C%A0%EC%A7%84_%EA%B3%BC%EC%A0%9C1.pdf)
 

@@ -1,5 +1,5 @@
 # commento boot camp : DBA
-desc : DBA에 대한 직무 체험 부트 캠프
+desc : DBA에 대한 직무 체험 부트 캠프 (2020.10.17 ~ 2020.11.14)
 
 ## 1. AWS 서버 이용
 ![K-007](https://user-images.githubusercontent.com/52481037/98964044-aff86a80-254b-11eb-95c0-41b73068e981.jpg)

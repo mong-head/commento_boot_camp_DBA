@@ -16,4 +16,10 @@ desc : DBA에 대한 직무 체험 부트 캠프
 * 비용도 적절하고, 24시간 서비스를 제공하는 AWS RDS MySQL을 최종적으로 선택함.   
 * 어려웠던 점 : 서버를 컴퓨터에 직접 설치하는 것과 oracle의 비용을 알아보고 싶었지만, 실제로 알 수 있는 방법은 직접 전화를 하거나 주변에 설치한 사람에게 물어보는 방법 뿐이었다. 그래서 그 부분의 경우는 확실하지 않아, 공란으로 두었다.
 
-## 2. 
+## 2. 데이터 이관
+
+detail : [과제 2](https://github.com/mong-head/commento_boot_camp_DBA/blob/master/%EA%B3%BC%EC%A0%9C2/%EA%B3%BC%EC%A0%9C2_%EB%B0%B0%EC%9C%A0%EC%A7%84_1%EC%B0%A8.pdf)
+* 시스템 : 고객 추천 시스템
+* tables : 
+<p align="center"><img src = "https://user-images.githubusercontent.com/52481037/98969712-7a0ab480-2552-11eb-928c-1d2b6bbc039c.jpg" align="center" width="700px" ></p>
+

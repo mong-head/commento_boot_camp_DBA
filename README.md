@@ -1,6 +1,12 @@
 # commento boot camp : DBA
 desc : DBA에 대한 직무 체험 부트 캠프 (2020.10.17 ~ 2020.11.14)
 
+* 사용 기술 및 프로그램
+  1. AWS RDS MySQL 서비스
+  2. MySQL(8.0)
+  3. SQLyog
+  4. DA#5
+
 ## 1. AWS 서버 이용
 ![K-007](https://user-images.githubusercontent.com/52481037/98964044-aff86a80-254b-11eb-95c0-41b73068e981.jpg)
 * AWS RDS MySQL이용
@@ -23,3 +29,4 @@ detail : [과제 2](https://github.com/mong-head/commento_boot_camp_DBA/blob/mas
 * tables : 
 <p align="center"><img src = "https://user-images.githubusercontent.com/52481037/98969712-7a0ab480-2552-11eb-928c-1d2b6bbc039c.jpg" align="center" width="700px" ></p>
 
+## 3. 

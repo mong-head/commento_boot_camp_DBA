@@ -51,5 +51,7 @@ detail : [과제 3](https://github.com/mong-head/commento_boot_camp_DBA/blob/mas
   1. log DB를 만들고, log table을 만듦 - 정의한 이상데이터의 로그를 남기기 위함
   2. Trigger을 이용하여, 데이터를 insert할 때마다 이상데이터인지 확인하여 로그 남김
   3. procedure을 이용하여, 품질검증 프로세스를 하나로 담아서 점검시 편함을 추구함.
+  * [trigger,procedure,query code](https://github.com/mong-head/commento_boot_camp_DBA/tree/master/%EA%B3%BC%EC%A0%9C3)
   * log DB, Trigger, Procedure등을 담은 DB이미지 : 
 <p align="center"><img src = "https://user-images.githubusercontent.com/52481037/98972229-82182380-2555-11eb-9af8-9b7ce43447f9.png" align="center" width="150px" ></p>
+

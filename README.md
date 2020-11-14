@@ -75,5 +75,9 @@ detail : [과제 4](https://github.com/mong-head/commento_boot_camp_DBA/blob/mas
   * 원인 추론 : 파트너사에서 임의로 스키마 변경했을 것
   * 문제 해결 : bin file이 그 당시 없었어서 시간을 유추하며 AWS RDS backtrack서비스 이용
   
+    |backtrack위해 여러 instance만들고 지움|복구 instance : commento-11-10-11-utc-public|
+    |:------:|:------:|
+    |<p align="center"><img src = "https://user-images.githubusercontent.com/52481037/99141877-ce1cb280-2692-11eb-9d92-2e2b53b354f4.jpg" align="center" width="400px" ></p>|<p align="center"><img src = "https://user-images.githubusercontent.com/52481037/99141895-015f4180-2693-11eb-9734-d17b1e84d0e1.png" align="center" width="400px" ></p>|
+  
 파트너사와 충돌
   * 파트너사에 손해배상청구하는 문서 만들어 보고, 실제 멘토님과 롤플레이 해봄

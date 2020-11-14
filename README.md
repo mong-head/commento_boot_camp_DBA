@@ -35,7 +35,7 @@ detail : [과제 2](https://github.com/mong-head/commento_boot_camp_DBA/blob/mas
 
 * 추가 과제 : DB설계 해보기 - 사내도서관 시스템 DB설계(논리,물리)
   * detail : [추가 과제](https://github.com/mong-head/commento_boot_camp_DBA/blob/master/%EA%B3%BC%EC%A0%9C3-4%EC%82%AC%EC%9D%B4%20%EC%B6%94%EA%B0%80%EA%B3%BC%EC%A0%9C/%EC%B6%94%EA%B0%80%20%EA%B3%BC%EC%A0%9C.pdf)
-  * 피드백 정리 : [추가 과제 피드백 정리](https://github.com/mong-head/commento_boot_camp_DBA/blob/master/%EA%B3%BC%EC%A0%9C3-4%EC%82%AC%EC%9D%B4%20%EC%B6%94%EA%B0%80%EA%B3%BC%EC%A0%9C/%EC%B6%94%EA%B0%80%20%EA%B3%BC%EC%A0%9C.pdf)
+  * 피드백 정리 : [추가 과제 피드백 정리](https://github.com/mong-head/commento_boot_camp_DBA/blob/master/%EA%B3%BC%EC%A0%9C3-4%EC%82%AC%EC%9D%B4%20%EC%B6%94%EA%B0%80%EA%B3%BC%EC%A0%9C/%EC%B6%94%EA%B0%80%20%EA%B3%BC%EC%A0%9C%20%ED%94%BC%EB%93%9C%EB%B0%B1.pdf)
   * 프로그램 : DA#5이용
   * 결과 : 
   

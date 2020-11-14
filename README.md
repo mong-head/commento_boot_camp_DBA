@@ -42,8 +42,11 @@ detail : [과제 2](https://github.com/mong-head/commento_boot_camp_DBA/blob/mas
     |논리 설계|물리 설계|
     |:------:|:------:|
     |<p align="center"><img src = "https://user-images.githubusercontent.com/52481037/98973525-34041f80-2557-11eb-9e65-1b69281b9099.png" align="center" width="400px" ></p>|<p align="center"><img src = "https://user-images.githubusercontent.com/52481037/98974284-15eaef00-2558-11eb-9440-f19cbe3ed129.png" align="center" width="400px" ></p>|
-
-
+  * 피드백 적용 결과 :
+    |논리 설계|물리 설계|
+    |:------:|:------:|
+    |<p align="center"><img src = "https://user-images.githubusercontent.com/52481037/99141705-5437f980-2691-11eb-8676-51acbcd9f15a.png" align="center" width="400px" ></p>|<p align="center"><img src = "https://user-images.githubusercontent.com/52481037/99141710-57cb8080-2691-11eb-8992-a3fbfc23c6bb.png" align="center" width="400px" ></p>|
+    * 변경 : trigger사용X-사용자 table column 2개 삭제 / 제 2정규화까지 적용(제 3정규화는 적용시키지 않음 - 이유 : 피드백 pdf에 존재)
 
 
 ## 3. 이상데이터 검출 및 품질검증 시스템 생성

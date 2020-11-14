@@ -59,3 +59,18 @@ detail : [과제 3](https://github.com/mong-head/commento_boot_camp_DBA/blob/mas
   * log DB, Trigger, Procedure등을 담은 DB이미지 : 
 <p align="center"><img src = "https://user-images.githubusercontent.com/52481037/98972229-82182380-2555-11eb-9af8-9b7ce43447f9.png" align="center" width="150px" ></p>
 
+## 4. 트러블 슈팅
+
+detail : [과제 4](https://github.com/mong-head/commento_boot_camp_DBA/blob/master/%EA%B3%BC%EC%A0%9C4/%EA%B3%BC%EC%A0%9C%204.pdf)
+
+과제 피드백 정리 : [과제 4 피드백](https://github.com/mong-head/commento_boot_camp_DBA/blob/master/%EA%B3%BC%EC%A0%9C4/%EA%B3%BC%EC%A0%9C4%20%ED%94%BC%EB%93%9C%EB%B0%B1%20%EC%A0%95%EB%A6%AC.pdf)
+
+트러블슈팅
+  * 상황 가정 : 파트너사에서 임의로 스키마 변경(테이블의 column하나를 drop)
+  * 문제 정의 : 그로 인해 발생했던 문제에 대한 설명 및 문제 정의
+  * 원인 분석 : 문제에 대해 여러 로그를 보여줌
+  * 원인 추론 : 파트너사에서 임의로 스키마 변경했을 것
+  * 문제 해결 : bin file이 그 당시 없었어서 시간을 유추하며 AWS RDS backtrack서비스 이용
+  
+파트너사와 충돌
+  * 파트너사에 손해배상청구하는 문서 만들어 보고, 실제 멘토님과 롤플레이 해봄

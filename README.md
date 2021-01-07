@@ -1,5 +1,10 @@
 # commento boot camp : DBA
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 desc : DBA에 대한 직무 체험 부트 캠프 (2020.10.17 ~ 2020.11.14)
+
 
 * 사용 기술 및 프로그램
   1. AWS RDS MySQL 서비스
